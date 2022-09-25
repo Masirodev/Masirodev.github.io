@@ -22,7 +22,7 @@ title: Programming blog
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hi! I'm Masi. I'm a computer science student, passionate about Data Science and Automation. 
-  My mission with this blog is to explain complex programming concepts more thoroughly. Subscribe to be part of this community.
+  My mission with this blog is to simplify complex programming concepts. 
 
  
 baseurl: "" # the subpath of your site, e.g. /blog
